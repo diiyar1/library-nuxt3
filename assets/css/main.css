@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Bibliothek{
+  @apply uppercase font-semibold text-2xl text-slate-200  h-20 p-6 ;
+}
+.sideBarTxt{
+  @apply flex space-x-2 text-greyishTxt font-medium capitalize hover:bg-bitDarkPurp p-6   h-full hover:text-slate-200 hover:border-r-4  hover:border-rose-400;
+}
+.sideBarIcon{
+  @apply text-2xl text-rose-400  border-2 border-rose-400 rounded-md p-1
+}
+.custom-focus:focus {
+    box-shadow: 0 2px 0 0 #bebac3; 
+  }
+.bookCard{
+  @apply bg-white h-fit  rounded-md p-2 shadow-lg  mx-auto  hover:cursor-pointer transition ease-in-out  hover:translate-y-1 hover:scale-110 duration-300 relative;
+}

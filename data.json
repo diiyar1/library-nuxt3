@@ -1,0 +1,84 @@
+{
+    "books":[
+    {
+        "id":1,
+        "name":"The Fate of Fausto",
+        "des":"The Fate of Fausto is a modern-day fable that tells the story of a man named Fausto who believes he owns everything and sets out to survey what is his. He declares “You are mine” to the flower, the sheep, and the mountain, and they all bow before him. However, Fausto’s sense of ownership and control is eventually challenged by the natural world, leading to a poignant and thought-provoking conclusion.",
+        "rate":4,
+        "author":" Oliver Jeffers ",
+        "category":["childrens","nature","Fiction"],
+        "pages":"96",
+        "price":4.14,
+        "cover":"https://imgs.search.brave.com/idvnEZ_u3gRTCue1YrsNul0YxNWgfOIAL3VS-FSaRUY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ibG9n/LWNkbi5yZWVkc3ku/Y29tL3VwbG9hZHMv/MjAxOS8xMi9mYXVz/dG8tNzQ0eDEwMjQu/anBn"
+    },
+    {
+        "id":2,
+        "name":"The city of screams",
+        "des":"Life already hangs in precarious balance for Phoenix and her family and friends as rebellion bubbles beneath every surface, but when the Adults return, offering desperate acts of salvation, they seem to forget that nature itself is calling the shots.","rate":4,
+        "author":"John Brindley",
+        "category":["action","horror"],
+        "price":20
+       ,"cover":"https://imgs.search.brave.com/t-qjr3J_cK3wTDwTKtkdKYpDjdiu4XvlgXm2132ug8w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMWNz/YXJrejhvYmU5dS5j/bG91ZGZyb250Lm5l/dC9wb3N0ZXJwcmV2/aWV3cy92aW50YWdl/LWJvb2stY292ZXIt/dGVtcGxhdGUtZGVz/aWduLTQ2ZTI3YmI1/YmIxOGQxMzU0ZjVh/Y2MxZDk2NDU0ZjYw/LmpwZz90cz0xNjk4/MzQxMDc3"},
+    {
+        "id":3,
+        "name":"One of Us Is Dead",
+        "des":"The highly anticipated new thriller from the bestselling author of The Perfect Marriage.Opulence. Sex. Betrayal … Sometimes friendship can be deadly.Meet the women of Buckhead—a place of expensive cars, huge houses, and competitive friendships.Shannon was once the queen bee of Buckhead. But she’s been unceremoniously dumped by Bryce, her politician husband. When Bryce replaces her with a much younger woman, Shannon sets out to take revenge …Crystal has stepped into Shannon’s old shoes. A young, innocent Texan girl, she simply has no idea what she’s up against …Olivia has waited years to take Shannon’s crown as the unofficial queen of Buckhead. Finally, her moment has come. But to take her rightful place, she will need to use every backstabbing, manipulative, underhand trick in the book …Jenny owns Glow, the most exclusive salon in town. Jenny knows all her clients’ secrets and darkest desires. But will she ever tell?Who amongst these women will be clever enough to survive Buckhead—and who will wind up dead? They say that friendships can be complex, but no one said it could ever be this deadly.",
+        "rate":3,
+        "author":"Jeneva Rose",
+        "category":["Thriller","mystery","fiction","contemporary","crime","Young Adult"],
+        "pages":"318",
+        "price":18.5,
+      "cover": "https://imgs.search.brave.com/ttfbov4vyvR1NyNpFS3ZyeVdoe9yERcR9eCI0GuoimY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxbjhjM0NoSXJM/LmpwZw"
+    },
+    {
+        "id":4,
+        "name":"The Hidden Sense: Synesthesia in Art and Science",
+        "des":"What does it mean to hear music in colors, to taste voices, to see each letter of the alphabet as a different color? These uncommon sensory experiences are examples of synesthesia, when two or more senses cooperate in perception. Once dismissed as imagination or delusion, metaphor or drug-induced hallucination, the experience of synesthesia has now been documented by scans of synesthetes' brains that show 'crosstalk' between areas of the brain that do not normally communicate. In The Hidden Sense, Cretien van Campen explores synesthesia from both artistic and scientific perspectives, looking at accounts of individual experiences, examples of synesthesia in visual art, music, and literature, and recent neurological research.Van Campen reports that some studies define synesthesia as a brain impairment, a short circuit between two different areas. But synesthetes cannot imagine perceiving in any other way; many claim that synesthesia helps them in daily life. Van Campen investigates just what the function of synesthesia might be and what it might tell us about our own sensory perceptions. He examines the experiences of individual synesthetes—from Patrick, who sees music as images and finds the most beautiful ones spring from the music of Prince, to the schoolgirl Sylvia, who is surprised to learn that not everyone sees the alphabet in colors as she does. And he finds suggestions of synesthesia in the work of Scriabin, Van Gogh, Kandinsky, Nabokov, Poe, and Baudelaire.What is synesthesia? It is not, van Campen concludes, an audiovisual performance, a literary technique, an artistic trend, or a metaphor. It is, perhaps, our hidden sense—a way to think visually; a key to our own sensitivity.",
+        "rate":2,
+        "author":"Cretien van Campen",
+        "category":["Science","Fiction","art","Non-Fiction","Psychology"],
+        "pages":"200",
+        "price":7.4
+    ,"cover":"https://imgs.search.brave.com/E-q7OwR59vKIdppUahwB6V0OPebRA0t0NIQAivnZQJg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zMjk4/Mi5wY2RuLmNvL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzEx/L1RoZS1DZW50cmUt/YnktQXllc2hhLU1h/bmF6aXItU2lkZGlx/aS1ib29rLWNvdmVy/LmpwZWcub3B0aW1h/bC5qcGVn"},
+    {
+        "id":5,
+        "name":"Haunting Adeline",
+        "des":"The Manipulator I can manipulate the emotions of anyone who lets me.I will make you hurt, make you cry, make you laugh and sigh.But my words don't affect him. Especially not when I plead for him to leave.He's always there, watching and waiting.And I can never look away.Not when I want him to come closer. The Shadow I didn't mean to fall in love.But now that I have, I can't stay away.I'm mesmerized by her smile, by her eyes, and the way she moves.The way she undresses...I'll keep watching and waiting. Until I can make her mine. And once she is, I'll never let her go. Not even when she begs me to",
+        "rate":4,
+        "author":" H. D. Carlto",
+        "category":["Fiction","crime","Thriller"],
+        "pages":"120",
+        "price":8.14
+    ,"cover":"https://imgs.search.brave.com/q7O9W9esJ0_968MHo2k_fmVUq3dLjyXrIRGDupzAB3c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxVzUtMk5kTnNM/LmpwZw"},
+    {
+        "id":6,
+        "name":"The Boy at the Back of the Class ",
+        "des":"The Boy at the Back of the Class is a novel by Onjali Q. Raúf that tells the story of a young refugee boy named Ahmet who joins a class in a London school. Ahmet is a Syrian refugee who has been separated from his family and is struggling to adjust to his new life in England. The story is told from the perspective of a young girl named Alexa, who decides to befriend Ahmet and help him feel more included in the class.",
+        "rate":4,
+        "author":"Onjali Q. Raúf",
+        "category":["fiction","childrens","contemporary","art"],
+        "pages":"80",
+        "price":15
+    ,   "cover":"https://imgs.search.brave.com/33qajASBN6Fw2w-AFSXtaB1SGfn7DtuPQg5zCpD3nFQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ibG9n/LWNkbi5yZWVkc3ku/Y29tL3VwbG9hZHMv/MjAxOS8xMi9ib3kt/YXQtdGhlLWJhY2su/anBn"},
+    {
+        "id":7,
+        "name":"Twisted Love",
+        "des":"He has a heart of ice … but for her, he'd burn the world. Alex Volkov is a devil blessed with the face of an angel and cursed with a past he can't escape. Driven by a tragedy that has haunted him for most of his life, his ruthless pursuits for success and vengeance leave little room for matters of the heart. But when he's forced to look after his best friend's sister, he starts to feel something in his chest: A crack. A melt. A fire that could end his world as he knew it. * Ava Chen is a free spirit trapped by nightmares of a childhood she can't remember. But despite her broken past, she's never stopped seeing the beauty in the world … including the heart beneath the icy exterior of a man she shouldn't want. Her brother's best friend. Her neighbor. Her savior and her downfall. Theirs is a love that was never supposed to happen - but when it does, it unleashes secrets that could destroy them both … and everything they hold dear. Twisted Love is a brother's best friend/opposites attract romance with a hint of suspense. It's book one in the Twisted series, but can be read as a standalone. WARNING: This book contains a possessive alpha/antihero, explicit sexual content, and profanity. No cheating or ménage, but if you're looking for a traditionally sweet, loveable hero, this is not the book for you. Recommended for 18+.",
+        "rate":3,
+        "author":"Ana Huang ",
+        "category":["romance","Memoir","crime"],
+        "pages":"265",
+        "price":3
+    ,"cover":"https://imgs.search.brave.com/MIeL6P5fJ9RCOByVHU8_nDAKXuj92x9UCF0uYmL2PXA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zMjk4/Mi5wY2RuLmNvL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzEx/L3VzLWJvb2stY292/ZXIuanBlZy5vcHRp/bWFsLmpwZWc"},
+    {
+        "id":8,
+        "name":"A Sutil Arte de Ligar o F*da-se",
+        "des":" In this book, blogger and former internet entrepreneur Mark Manson explains in simple, no expletives barred terms how to achieve happiness by caring more about fewer things and not caring at all about more.He explains how the metrics we use to define ourselves may be the very things holding us back. By redefining our metrics, questioning ourselves and doubting everything, we may be able to find that we're better off than we think, and thereby become happier people.",
+        "rate":0,
+        "author":"Mark Manson",
+        "category":["Fiction","romance"],
+        "pages":"203",
+        "price":7.14
+   ,"cover":"https://imgs.search.brave.com/X2-a82tA_tKL261etaBNpMvbxvqu7v5jaEocmWwo8sU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20vRUFFLVNn/WHN4R1kvMS8wLzEw/MDN3L2NhbnZhLWdy/ZWVuLWlsbHVzdHJh/dGVkLWJvb2stY292/ZXItcVQxYWRLMHpf/RGMuanBn" }
+]
+}
